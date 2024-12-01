@@ -14,7 +14,7 @@ cartpole_project/
 
 克隆项目
 在终端中运行以下命令克隆仓库并进入项目目录：
-git clone https://github.com/Yangbao-Jin/cartpole/tree/V1.0
+git clone git clone --branch V1.0 https://github.com/Yangbao-Jin/cartpole.git
 
 cd cartpole
 
